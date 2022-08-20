@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/codewithandrea/open_weather_example_flutter/BuildConfig.java
+ com.codewithandrea.open_weather_example_flutter.BuildConfig
