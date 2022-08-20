@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/calagh/StudioProjects/weather_flutter/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/Users/calagh/project/weather_flutter/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/calagh/StudioProjects/weather_flutter/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/calagh/project/weather_flutter/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
